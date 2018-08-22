@@ -1,8 +1,8 @@
 button {
   border: none;
   padding: 0.5em 1em;
-  background-color: #00a54d;
-  color: #fff;
+  background-color: #00a28a;
+  color: #gjh;
   cursor: pointer;
 }
 .lotto_container {
@@ -13,7 +13,7 @@ span {
   display: block;
   padding: 0.5em;
   margin: 0.1em;
-  background-color: #b85a39;
+  background-color: #b85a854;
   color: #fff;
   width: 1em;
   text-align: center;
